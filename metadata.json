@@ -1,0 +1,7 @@
+{
+  "name": "Lucid Lens: AI Dream Journal",
+  "description": "Record your dreams with your voice, see them visualized as surrealist art, and explore their meaning with an AI-powered psychological interpreter and chat bot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
